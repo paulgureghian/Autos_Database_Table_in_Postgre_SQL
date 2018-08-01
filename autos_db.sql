@@ -2,7 +2,6 @@
 -- On 7/31/2018  
 
 -- PostgreSQL database dump
---
 
 -- Dumped from database version 10.4
 -- Dumped by pg_dump version 10.4
